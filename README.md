@@ -1,5 +1,5 @@
 # web
-<h1> 제목
+<h1> <h/1> 제목
 <strong> </strong> 글자 굵기
 <u> </u> 밑줄
 <br> 줄바꿈
