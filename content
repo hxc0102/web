@@ -8,3 +8,11 @@
 css로 간격을 넓힐수있음.("margin-(top or bottom):45px;")
 <img sourc(src)="coding.jpg" width(사진크기)="100%"> 
 ==>이미지 넣기
+<li> 목차를 나타냄 부모태그인 <ul>이 있음.
+<ol> 태그는 숫자를 알아서 설정해줌.
+<title> 본문의 제목 - <head>,<body> 자식태그 같이옴.
+<meta charset="utf-8"> utf-8을 이용해 포털을 열어라!
+맨위에는 <!doctype html>을 쓴다.
+<a> 링크를 만드는 언어 <a href="복붙"> 
+target="_blank" 새창을 띄우는 명령어
+title="~~~"웹들어가기전 설명 
